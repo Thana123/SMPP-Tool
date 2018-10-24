@@ -1,0 +1,4 @@
+vf-scripts/scan-logs.sh 6421337339 16:11
+End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 

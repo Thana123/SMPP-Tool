@@ -1,0 +1,1418 @@
+18/10/2018 12:54:51 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 12:54:51 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 12:54:51 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 12:54:51 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 12:54:51 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 12:54:51 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 12:54:51 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 12:54:54 SMPPfunction.setUpTextsendertool session created
+18/10/2018 12:55:02 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 12:55:02 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 12:55:02 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 12:55:02 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 12:55:02 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 12:55:02 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 12:55:08 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 12:55:08 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 12:55:08 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 12:55:08 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 12:55:08 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 12:55:08 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 12:55:08 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 12:57:53 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 12:57:53 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 12:57:53 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 12:57:53 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 12:57:53 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 12:57:53 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 12:57:53 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 12:57:55 SMPPfunction.setUpTextsendertool session created
+18/10/2018 12:58:03 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 12:58:03 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 12:58:03 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 12:58:03 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 12:58:03 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 12:58:03 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 12:58:10 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 12:58:10 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 12:58:10 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 12:58:10 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 12:58:10 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 12:58:10 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 12:58:10 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 13:00:10 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 13:00:10 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 13:00:10 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 13:00:10 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 13:00:10 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 13:00:10 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 13:00:10 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 13:00:21 SMPPfunction.setUpTextsendertool session created
+18/10/2018 13:00:31 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 13:00:31 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 13:00:31 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 13:00:31 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 13:00:31 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 13:00:31 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 13:00:37 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 13:00:37 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 13:00:37 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 13:00:37 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 13:00:37 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 13:00:37 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 13:00:37 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 13:03:29 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 13:03:29 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 13:03:29 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 13:03:29 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 13:03:29 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 13:03:29 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 13:03:29 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 13:03:31 SMPPfunction.setUpTextsendertool session created
+18/10/2018 13:03:39 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 13:03:39 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 13:03:39 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 13:03:39 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 13:03:39 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 13:03:39 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 13:03:42 SMPPfunction.setUpTextsendertool vf-scripts/scan-logs.sh 11:00 13:00
+
+18/10/2018 13:03:44 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 13:03:46 SMPPfunction.setUpTextsendertool End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 13:03:46 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 13:03:46 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 13:03:46 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 13:03:46 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 13:03:46 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 13:03:46 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 13:03:46 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 13:11:23 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 13:11:23 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 13:11:23 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 13:11:23 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 13:11:23 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 13:11:23 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 13:11:23 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 13:11:24 SMPPfunction.setUpTextsendertool session created
+18/10/2018 13:11:33 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 13:11:33 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 13:11:33 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 13:11:33 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 13:11:33 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 13:11:33 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 13:11:41 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 13:11:43 SMPPfunction.setUpTextsendertool End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 13:11:43 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 13:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 13:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 13:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 13:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 13:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 13:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 13:18:13 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 13:18:13 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 13:18:13 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 13:18:13 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 13:18:13 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 13:18:13 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 13:18:13 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 13:18:15 SMPPfunction.setUpTextsendertool session created
+18/10/2018 13:18:23 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 13:18:23 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 13:18:23 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 13:18:23 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 13:18:23 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 13:18:23 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 13:18:28 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 13:18:30 SMPPfunction.setUpTextsendertool End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 13:18:30 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 13:18:30 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 13:18:30 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 13:18:30 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 13:18:30 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 13:18:30 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 13:18:30 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 14:05:31 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 14:05:31 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 14:05:31 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 14:05:31 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 14:05:31 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 14:05:31 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 14:05:31 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 14:05:33 SMPPfunction.setUpTextsendertool session created
+18/10/2018 14:05:42 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 14:05:42 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 14:05:42 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 14:05:42 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 14:05:42 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 14:05:42 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 14:05:47 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 14:05:49 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 14:05:49 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 14:05:49 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 14:05:49 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 14:05:49 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 14:05:49 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 14:05:49 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 14:29:21 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 14:29:21 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 14:29:21 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 14:29:21 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 14:29:21 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 14:29:21 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 14:29:21 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 14:29:23 SMPPfunction.setUpTextsendertool session created
+18/10/2018 14:29:31 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 14:29:31 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 14:29:31 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 14:29:31 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 14:29:31 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 14:29:31 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 14:29:34 SMPPfunction.setUpTextsendertool vf-scripts/scan-logs.sh 11:00 13:00
+
+18/10/2018 14:29:36 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 14:29:38 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 14:29:38 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 14:29:38 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 14:29:38 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 14:29:38 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 14:29:38 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 14:29:38 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 14:35:52 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 14:35:52 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 14:35:52 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 14:35:52 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 14:35:52 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 14:35:52 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 14:35:52 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 14:35:56 SMPPfunction.setUpTextsendertool session created
+18/10/2018 14:36:04 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 14:36:04 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 14:36:04 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 14:36:04 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 14:36:04 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 14:36:04 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 14:36:09 TextSenderPages.LoginTab  Hi this is Linx shell script output:    18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 14:36:09 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 14:36:09 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 14:36:09 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 14:36:09 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 14:36:09 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 14:36:09 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 14:38:15 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 14:38:15 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 14:38:15 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 14:38:15 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 14:38:15 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 14:38:15 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 14:38:15 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 14:38:17 SMPPfunction.setUpTextsendertool session created
+18/10/2018 14:38:25 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 14:38:25 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 14:38:25 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 14:38:25 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 14:38:25 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 14:38:25 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 14:38:28 SMPPfunction.setUpTextsendertool vf-scripts/scan-logs.sh 11:00 13:00
+
+18/10/2018 14:38:30 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 14:38:33 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 14:38:33 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 14:38:33 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 14:38:33 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 14:38:33 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 14:38:33 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 14:38:33 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:37:38 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:37:38 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:37:38 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:37:38 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:37:38 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 15:37:38 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:37:38 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 15:37:39 SMPPfunction.setUpTextsendertool session created
+18/10/2018 15:37:48 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 15:37:48 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 15:37:48 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 15:37:48 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:37:48 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 15:37:48 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 15:37:53 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 15:37:55 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 15:37:55 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:37:55 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:37:55 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:37:55 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 15:37:55 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 15:37:55 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:47:39 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:47:39 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:47:39 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:47:39 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:47:39 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 15:47:39 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:47:39 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 15:47:41 SMPPfunction.setUpTextsendertool session created
+18/10/2018 15:47:49 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 15:47:49 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 15:47:49 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 15:47:49 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:47:49 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 15:47:49 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 15:47:54 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 15:47:56 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 15:47:56 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:47:56 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:47:56 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:47:56 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 15:47:56 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 15:47:56 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:49:05 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:49:05 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:49:05 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:49:05 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:49:05 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 15:49:05 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:49:05 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 15:49:07 SMPPfunction.setUpTextsendertool session created
+18/10/2018 15:49:16 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 15:49:16 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 15:49:16 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 15:49:16 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:49:16 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 15:49:16 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 15:49:39 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:49:39 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:49:39 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:49:39 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:49:39 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 15:49:39 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:49:39 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 15:49:44 SMPPfunction.setUpTextsendertool session created
+18/10/2018 15:49:52 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 15:49:52 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 15:49:52 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 15:49:52 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:49:52 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 15:49:52 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 15:49:57 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 15:49:59 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 15:49:59 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:49:59 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:49:59 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:49:59 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 15:49:59 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 15:49:59 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:54:39 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:54:39 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:54:39 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:54:39 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:54:39 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 15:54:39 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:54:39 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 15:54:40 SMPPfunction.setUpTextsendertool session created
+18/10/2018 15:54:48 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 15:54:48 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 15:54:48 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 15:54:48 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:54:48 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 15:54:48 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 15:54:54 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 15:54:56 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 15:54:56 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:54:56 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:54:56 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:54:56 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 15:54:56 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 15:54:56 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:57:01 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:57:01 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:57:01 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:57:01 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:57:01 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 15:57:01 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:57:01 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 15:57:02 SMPPfunction.setUpTextsendertool session created
+18/10/2018 15:57:11 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 15:57:11 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 15:57:11 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 15:57:11 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:57:11 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 15:57:11 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 15:57:16 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 15:57:18 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 15:57:18 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:57:18 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:57:18 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:57:18 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 15:57:18 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 15:57:18 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:59:20 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:59:20 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:59:20 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:59:20 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:59:20 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 15:59:20 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 15:59:20 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 15:59:21 SMPPfunction.setUpTextsendertool session created
+18/10/2018 15:59:30 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 15:59:30 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 15:59:30 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 15:59:30 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 15:59:30 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 15:59:30 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 15:59:35 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 15:59:37 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 15:59:37 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 15:59:37 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 15:59:37 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 15:59:37 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 15:59:37 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 15:59:37 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:01:46 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:01:46 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:01:46 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:01:46 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:01:46 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 16:01:46 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:01:46 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 16:01:48 SMPPfunction.setUpTextsendertool session created
+18/10/2018 16:01:57 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 16:01:57 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 16:01:57 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 16:01:57 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:01:57 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 16:01:57 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 16:02:02 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 16:02:04 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 16:02:04 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:02:04 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:02:04 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:02:04 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 16:02:04 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 16:02:04 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:02:58 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:02:58 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:02:58 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:02:58 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:02:58 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 16:02:58 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:02:58 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 16:02:59 SMPPfunction.setUpTextsendertool session created
+18/10/2018 16:03:08 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 16:03:08 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 16:03:08 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 16:03:08 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:03:08 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 16:03:08 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 16:03:13 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 16:03:15 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 16:03:15 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:03:15 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:03:15 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:03:15 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 16:03:15 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 16:03:15 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:08:07 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:08:07 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:08:07 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:08:07 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:08:07 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 16:08:07 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:08:07 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 16:08:09 SMPPfunction.setUpTextsendertool session created
+18/10/2018 16:08:17 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 16:08:17 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 16:08:17 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 16:08:17 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:08:17 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 16:08:17 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 16:08:22 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 16:08:24 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 16:08:24 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:08:24 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:08:24 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:08:24 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 16:08:24 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 16:08:24 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:12:31 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:12:31 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:12:31 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:12:31 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:12:31 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 16:12:31 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:12:31 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 16:12:33 SMPPfunction.setUpTextsendertool session created
+18/10/2018 16:12:41 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 16:12:41 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 16:12:41 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 16:12:41 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:12:41 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 16:12:41 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 16:12:46 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 16:12:48 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 16:12:48 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:12:48 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:12:48 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:12:48 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 16:12:48 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 16:12:48 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:22:03 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:22:03 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:22:03 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:22:03 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:22:03 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 16:22:03 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:22:03 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 16:22:05 SMPPfunction.setUpTextsendertool session created
+18/10/2018 16:22:13 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 16:22:13 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 16:22:13 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 16:22:13 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:22:13 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 16:22:13 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 16:22:18 TextSenderPages.LoginTab  Hi this is Linx shell script output:    18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 16:22:18 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:22:18 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:22:18 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:22:18 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 16:22:18 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 16:22:18 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:23:21 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:23:21 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:23:21 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:23:21 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:23:21 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 16:23:21 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:23:21 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 16:23:22 SMPPfunction.setUpTextsendertool session created
+18/10/2018 16:23:30 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 16:23:30 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 16:23:30 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 16:23:30 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:23:30 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 16:23:30 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 16:23:35 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 16:23:37 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 16:23:37 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:23:37 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:23:37 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:23:37 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 16:23:37 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 16:23:37 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:38:35 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:38:35 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:38:35 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:38:35 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:38:35 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+18/10/2018 16:38:35 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:38:35 SMPPfunction.setUpTextsendertool session initiated
+18/10/2018 16:38:37 SMPPfunction.setUpTextsendertool session created
+18/10/2018 16:38:45 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+18/10/2018 16:38:45 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+18/10/2018 16:38:45 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+18/10/2018 16:38:45 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+18/10/2018 16:38:45 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+18/10/2018 16:38:45 TextSenderPages.LoginTab  About to run shell script
+18/10/2018 16:38:50 SMPPfunction.setUpTextsendertool 18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+18.10.2018 11.58 64210130309 901234 Enter\ your\ text\ SMS\ here
+
+18/10/2018 16:38:52 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+18/10/2018 16:38:52 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+18/10/2018 16:38:52 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+18/10/2018 16:38:52 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+18/10/2018 16:38:52 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+18/10/2018 16:38:52 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+18/10/2018 16:38:52 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+18/10/2018 16:39:43 SMPPfunction.Actionfiles not bound to System ID: 
+18/10/2018 16:39:43 SMPPfunction.Actionfiles tool attempt to bind as BIND_TX && system ID is : 
+18/10/2018 16:39:43 SMPPfunction.ClassforJMSMStool Binding params are done
+18/10/2018 16:39:43 org.jsmpp.session.SMPPSession Connected
+18/10/2018 16:39:43 org.jsmpp.session.SMPPSession Starting PDUReaderWorker with processor degree:3 ...
+18/10/2018 16:39:43 org.jsmpp.session.SMPPSession Starting EnquireLinkSender
+18/10/2018 16:39:43 SMPPfunction.Actionfiles tool is bound to system ID: 
+18/10/2018 16:39:43 SMPPfunction.Actionfiles EnquireLinkTimer is : 60000
+18/10/2018 16:39:43 SMPPfunction.Actionfiles MSG Parameters :::   OA: 90123,  DA: 64212891200,  TEXT MSG : test SMS, STON: International, DTON: International, SNPI: ISDN, DNPI: ISDN, Validity Period : , Scheduled Delivery : ,  D-coding : GSM
+18/10/2018 16:39:43 SMPPfunction.Actionfiles ESM class set correctly
+18/10/2018 16:39:43 SMPPfunction.Actionfiles NPI set correctly
+18/10/2018 16:39:43 SMPPfunction.Actionfiles D set correctly
+18/10/2018 16:39:43 SMPPfunction.Actionfiles 9012364212891200test SMSINTERNATIONALINTERNATIONALISDNISDNGSM
+18/10/2018 16:39:43 SMPPfunction.Actionfiles SMS Sent to AG &&& Message ID is -2059457898
+18/10/2018 16:39:43 SMPPfunction.Actionfiles MSG ID : -2059457898  &&&    Content of SMS is   "test SMS"
+18/10/2018 16:39:43 SMPPfunction.Actionfiles what is my message ID is -2059457898
+18/10/2018 16:39:43 SMPPfunction.Actionfiles For DR, tool attempt to bind as BIND_RX && system ID 
+18/10/2018 16:39:43 SMPPfunction.ClassforJMSMStool Binding params are done
+18/10/2018 16:39:43 org.jsmpp.session.SMPPSession Connected
+18/10/2018 16:39:43 org.jsmpp.session.SMPPSession Starting PDUReaderWorker with processor degree:3 ...
+18/10/2018 16:39:43 SMPPfunction.Actionfiles tool is bound to system ID: 
+18/10/2018 16:39:43 org.jsmpp.session.SMPPSession Starting EnquireLinkSender
+18/10/2018 16:39:43 SMPPfunction.Actionfiles EnquireLinkTimer for BIND_RX is : 60000
+18/10/2018 16:47:56 SMPPfunction.Actionfiles MSG Parameters :::   OA: 90123,  DA: 642102891200,  TEXT MSG : test SMS, STON: International, DTON: International, SNPI: ISDN, DNPI: ISDN, Validity Period : , Scheduled Delivery : ,  D-coding : GSM
+18/10/2018 16:47:56 SMPPfunction.Actionfiles ESM class set correctly
+18/10/2018 16:47:56 SMPPfunction.Actionfiles NPI set correctly
+18/10/2018 16:47:56 SMPPfunction.Actionfiles D set correctly
+18/10/2018 16:47:56 SMPPfunction.Actionfiles 90123642102891200test SMSINTERNATIONALINTERNATIONALISDNISDNGSM
+18/10/2018 16:47:56 SMPPfunction.Actionfiles SMS Sent to AG &&& Message ID is -2058965437
+18/10/2018 16:47:56 SMPPfunction.Actionfiles MSG ID : -2058965437  &&&    Content of SMS is   "test SMS"
+18/10/2018 16:47:56 SMPPfunction.Actionfiles what is my message ID is -2058965437
+18/10/2018 17:11:44 org.jsmpp.session.SMPPSession EnquireLinkSender stop
+18/10/2018 17:11:44 org.jsmpp.session.SMPPSession PDUReaderWorker stop
+18/10/2018 17:11:58 org.jsmpp.session.SMPPSession EnquireLinkSender stop
+18/10/2018 17:11:58 org.jsmpp.session.SMPPSession PDUReaderWorker stop
+19/10/2018 14:54:37 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+19/10/2018 14:54:37 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+19/10/2018 14:54:37 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+19/10/2018 14:54:37 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+19/10/2018 14:54:37 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.20.145.25:5000 airgate@172.24.193.33
+19/10/2018 14:54:37 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+19/10/2018 14:54:37 SMPPfunction.setUpTextsendertool session initiated
+19/10/2018 14:54:39 SMPPfunction.setUpTextsendertool session created
+19/10/2018 14:54:47 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is VFtest01
+19/10/2018 14:54:47 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is p@ssw0rd
+19/10/2018 14:54:47 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+19/10/2018 14:54:47 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+19/10/2018 14:54:47 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+19/10/2018 14:54:47 TextSenderPages.LoginTab  About to run shell script
+19/10/2018 14:54:51 SMPPfunction.setUpTextsendertool 19.10.2018 11.26 642101827026 6421700700 Your\ voicemail\ PIN\ has\ just\ been\ changed.\ If\ this\ was\ changed\ by\ someone\ else\ and\ you\ need\ support\ on\ improving\ your\ voicemail\ security\ call\ us\ on\ 777
+
+19/10/2018 14:54:54 TextSenderPages.LoginTab  Hi this is Linx shell script output:    End-Of-File
+[airgate@smgwat01p current]$ 
+[airgate@smgwat01p current]$ 
+19/10/2018 14:54:54 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+19/10/2018 14:54:54 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+19/10/2018 14:54:54 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+19/10/2018 14:54:54 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+19/10/2018 14:54:54 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+19/10/2018 14:54:54 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is sept@ag
+19/10/2018 14:59:06 SMPPfunction.Actionfiles not bound to System ID: 
+19/10/2018 14:59:06 SMPPfunction.Actionfiles tool attempt to bind as BIND_TX && system ID is : 
+19/10/2018 14:59:06 SMPPfunction.ClassforJMSMStool Binding params are done
+19/10/2018 14:59:06 org.jsmpp.session.SMPPSession Connected
+19/10/2018 14:59:06 org.jsmpp.session.SMPPSession Starting PDUReaderWorker with processor degree:3 ...
+19/10/2018 14:59:06 org.jsmpp.session.SMPPSession Starting EnquireLinkSender
+19/10/2018 14:59:06 SMPPfunction.Actionfiles tool is bound to system ID: 
+19/10/2018 14:59:06 SMPPfunction.Actionfiles EnquireLinkTimer is : 60000
+19/10/2018 14:59:06 SMPPfunction.Actionfiles MSG Parameters :::   OA: 90123,  DA: 642102891200,  TEXT MSG : Test SMS for charging from 90123 to 642102891200, STON: Network Specific, DTON: International, SNPI: ISDN, DNPI: ISDN, Validity Period : , Scheduled Delivery : ,  D-coding : GSM
+19/10/2018 14:59:06 SMPPfunction.Actionfiles ESM class set correctly
+19/10/2018 14:59:06 SMPPfunction.Actionfiles NPI set correctly
+19/10/2018 14:59:06 SMPPfunction.Actionfiles D set correctly
+19/10/2018 14:59:06 SMPPfunction.Actionfiles 90123642102891200Test SMS for charging from 90123 to 642102891200NETWORK_SPECIFICINTERNATIONALISDNISDNGSM
+19/10/2018 14:59:06 SMPPfunction.Actionfiles SMS Sent to AG &&& Message ID is -1979095471
+19/10/2018 14:59:06 SMPPfunction.Actionfiles MSG ID : -1979095471  &&&    Content of SMS is   "Test SMS for charging from 90123 to 642102891200"
+19/10/2018 14:59:06 SMPPfunction.Actionfiles what is my message ID is -1979095471
+19/10/2018 14:59:06 SMPPfunction.Actionfiles For DR, tool attempt to bind as BIND_RX && system ID 
+19/10/2018 14:59:06 SMPPfunction.ClassforJMSMStool Binding params are done
+19/10/2018 14:59:06 org.jsmpp.session.SMPPSession Connected
+19/10/2018 14:59:06 org.jsmpp.session.SMPPSession Starting PDUReaderWorker with processor degree:3 ...
+19/10/2018 14:59:06 SMPPfunction.Actionfiles tool is bound to system ID: 
+19/10/2018 14:59:06 SMPPfunction.Actionfiles EnquireLinkTimer for BIND_RX is : 60000
+19/10/2018 14:59:06 org.jsmpp.session.SMPPSession Starting EnquireLinkSender
+19/10/2018 15:24:52 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+19/10/2018 15:24:52 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+19/10/2018 15:24:52 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+19/10/2018 15:24:52 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+19/10/2018 15:24:52 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.27.115.10:5000 airgate@172.27.193.87
+19/10/2018 15:24:52 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+19/10/2018 15:24:52 SMPPfunction.setUpTextsendertool session initiated
+19/10/2018 15:24:54 SMPPfunction.setUpTextsendertool session created
+19/10/2018 15:25:02 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is ProdToTest
+19/10/2018 15:25:02 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is ptt16
+19/10/2018 15:25:02 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+19/10/2018 15:25:02 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+19/10/2018 15:25:02 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+19/10/2018 15:25:02 TextSenderPages.LoginTab  About to run shell script
+19/10/2018 15:27:25 SMPPfunction.Actionfiles not bound to System ID: 
+19/10/2018 15:27:25 SMPPfunction.Actionfiles tool attempt to bind as BIND_TX && system ID is : 
+19/10/2018 15:27:25 SMPPfunction.ClassforJMSMStool Binding params are done
+19/10/2018 15:27:25 org.jsmpp.session.SMPPSession Connected
+19/10/2018 15:27:25 org.jsmpp.session.SMPPSession Starting PDUReaderWorker with processor degree:3 ...
+19/10/2018 15:27:25 org.jsmpp.session.SMPPSession Starting EnquireLinkSender
+19/10/2018 15:27:25 SMPPfunction.Actionfiles tool is bound to system ID: 
+19/10/2018 15:27:25 SMPPfunction.Actionfiles EnquireLinkTimer is : 60000
+19/10/2018 15:27:25 SMPPfunction.Actionfiles MSG Parameters :::   OA: +12345678901,  DA: 642102891200,  TEXT MSG : Internation SMS to VF number, STON: International, DTON: International, SNPI: ISDN, DNPI: ISDN, Validity Period : , Scheduled Delivery : ,  D-coding : GSM
+19/10/2018 15:27:25 SMPPfunction.Actionfiles ESM class set correctly
+19/10/2018 15:27:25 SMPPfunction.Actionfiles NPI set correctly
+19/10/2018 15:27:25 SMPPfunction.Actionfiles D set correctly
+19/10/2018 15:27:25 SMPPfunction.Actionfiles +12345678901642102891200Internation SMS to VF numberINTERNATIONALINTERNATIONALISDNISDNGSM
+19/10/2018 15:27:25 SMPPfunction.Actionfiles SMS Sent to AG &&& Message ID is -1977213491
+19/10/2018 15:27:25 SMPPfunction.Actionfiles MSG ID : -1977213491  &&&    Content of SMS is   "Internation SMS to VF number"
+19/10/2018 15:27:25 SMPPfunction.Actionfiles what is my message ID is -1977213491
+19/10/2018 15:27:25 SMPPfunction.Actionfiles For DR, tool attempt to bind as BIND_RX && system ID 
+19/10/2018 15:27:25 SMPPfunction.ClassforJMSMStool Binding params are done
+19/10/2018 15:27:25 org.jsmpp.session.SMPPSession Connected
+19/10/2018 15:27:25 org.jsmpp.session.SMPPSession Starting PDUReaderWorker with processor degree:3 ...
+19/10/2018 15:27:25 SMPPfunction.Actionfiles tool is bound to system ID: 
+19/10/2018 15:27:25 org.jsmpp.session.SMPPSession Starting EnquireLinkSender
+19/10/2018 15:27:25 SMPPfunction.Actionfiles EnquireLinkTimer for BIND_RX is : 60000
+19/10/2018 15:42:17 SMPPfunction.Actionfiles MSG Parameters :::   OA: 12345678901,  DA: 642102891200,  TEXT MSG : Internation SMS to VF number, STON: International, DTON: International, SNPI: ISDN, DNPI: ISDN, Validity Period : , Scheduled Delivery : ,  D-coding : GSM
+19/10/2018 15:42:17 SMPPfunction.Actionfiles ESM class set correctly
+19/10/2018 15:42:17 SMPPfunction.Actionfiles NPI set correctly
+19/10/2018 15:42:17 SMPPfunction.Actionfiles D set correctly
+19/10/2018 15:42:17 SMPPfunction.Actionfiles 12345678901642102891200Internation SMS to VF numberINTERNATIONALINTERNATIONALISDNISDNGSM
+19/10/2018 15:42:17 SMPPfunction.Actionfiles SMS Sent to AG &&& Message ID is -1976321659
+19/10/2018 15:42:17 SMPPfunction.Actionfiles MSG ID : -1976321659  &&&    Content of SMS is   "Internation SMS to VF number"
+19/10/2018 15:42:17 SMPPfunction.Actionfiles what is my message ID is -1976321659
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.27.115.10:5000 airgate@172.27.193.87
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+23/10/2018 11:14:03 SMPPfunction.setUpTextsendertool session initiated
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is ProdToTest
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is ptt16
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+23/10/2018 11:14:03 TextSenderPages.LoginTab  About to run shell script
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+23/10/2018 11:14:03 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.27.115.10:5000 airgate@172.27.193.87
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+23/10/2018 11:20:13 SMPPfunction.setUpTextsendertool session initiated
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is ProdToTest
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is ptt16
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+23/10/2018 11:20:13 TextSenderPages.LoginTab  About to run shell script
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+23/10/2018 11:20:13 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+23/10/2018 11:51:55 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 11:51:55 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 11:51:55 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 11:51:55 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 11:51:55 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.27.115.10:5000 airgate@172.27.193.87
+23/10/2018 11:51:55 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+23/10/2018 11:51:55 SMPPfunction.setUpTextsendertool session initiated
+23/10/2018 11:51:57 SMPPfunction.setUpTextsendertool session created
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is ProdToTest
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is ptt16
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+23/10/2018 11:52:05 TextSenderPages.LoginTab  About to run shell script
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+23/10/2018 11:52:05 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+23/10/2018 11:59:16 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 11:59:16 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 11:59:16 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 11:59:16 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 11:59:16 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.27.115.10:5000 airgate@172.27.193.87
+23/10/2018 11:59:16 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+23/10/2018 11:59:16 SMPPfunction.setUpTextsendertool session initiated
+23/10/2018 11:59:18 SMPPfunction.setUpTextsendertool session created
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is ProdToTest
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is ptt16
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+23/10/2018 11:59:26 TextSenderPages.LoginTab  About to run shell script
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+23/10/2018 11:59:26 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+23/10/2018 12:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 12:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 12:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 12:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 12:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : Lefttunnel is ssh -L 5000:172.27.115.10:5000 airgate@172.27.193.87
+23/10/2018 12:11:43 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
+23/10/2018 12:11:43 SMPPfunction.setUpTextsendertool session initiated
+23/10/2018 12:11:46 SMPPfunction.setUpTextsendertool session created
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : UserName is ProdToTest
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : Password is ptt16
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : IpAddress is localhost
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : MTPort is 40010
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : ShellScript is vf-scripts/scan-logs.sh 11:00 13:00
+23/10/2018 12:11:55 TextSenderPages.LoginTab  About to run shell script
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : host is 172.27.200.26
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : user is haridast-ua
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : password is Google@11
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : MOPort is 40011
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : RightTunnel is ssh -R 21210
+23/10/2018 12:11:55 SMPPfunction.PropertiesFile Properties file is loaded to get : AGpassword is june@ag
